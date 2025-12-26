@@ -1,0 +1,4 @@
+include arabic_pro/translations/*.csv
+recursive-include arabic_pro *.css
+recursive-include arabic_pro *.js
+recursive-include arabic_pro *.py
