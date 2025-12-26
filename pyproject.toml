@@ -13,3 +13,11 @@ dynamic = ["version"]
 
 [tool.flit.module]
 name = "arabic_pro"
+
+[tool.bench]
+app_name = "arabic_pro"
+app_title = "Arabic Pro"
+app_publisher = "Antigravity"
+app_description = "Comprehensive Arabic translation and UI fixes for ERPNext 16."
+app_email = "info@example.com"
+app_license = "mit"
