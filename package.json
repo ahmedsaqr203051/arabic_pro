@@ -1,0 +1,10 @@
+{
+  "name": "arabic_pro",
+  "description": "Comprehensive Arabic translation and UI fixes for ERPNext 16.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmedsaqr203051/arabic_pro.git"
+  },
+  "author": "Antigravity",
+  "license": "MIT"
+}

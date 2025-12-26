@@ -1,0 +1,15 @@
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "arabic_pro"
+authors = [
+    {name = "Antigravity", email = "info@example.com"},
+]
+description = "Comprehensive Arabic translation and UI fixes for ERPNext 16."
+requires-python = ">=3.10"
+dynamic = ["version"]
+
+[tool.flit.module]
+name = "arabic_pro"
