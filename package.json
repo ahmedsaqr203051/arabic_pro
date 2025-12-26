@@ -1,6 +1,8 @@
 {
   "name": "arabic_pro",
+  "version": "0.0.1",
   "description": "Comprehensive Arabic translation and UI fixes for ERPNext 16.",
+  "private": true,
   "repository": {
     "type": "git",
     "url": "https://github.com/ahmedsaqr203051/arabic_pro.git"
